@@ -1,0 +1,21 @@
+node_modules/
+dist/
+
+# Logs
+*.log
+*.out
+*.err
+server.out.txt
+server.err.txt
+vite.out.txt
+vite.err.txt
+
+# OS and editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Environment files
+.env
+.env.*
